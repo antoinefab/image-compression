@@ -69,7 +69,3 @@ Exemples : ./codec -u -i QTC/test.qtc -g
            ./codec -c -i PGM/image.pgm -g
   
 
-
-Répartition du travail
-
-Nous avons principalement travaillé ensemble à la BU pour réaliser ce projet, avec une répartition équitable des tâches (50-50).
